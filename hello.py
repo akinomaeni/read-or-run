@@ -1,1 +1,1 @@
-print "read or run"
+print("read or run")
